@@ -1,0 +1,1 @@
+select first_name, email_id, active_status from customer_table;
